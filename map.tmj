@@ -73,7 +73,7 @@
          "height":28,
          "id":68,
          "name":"doorsteps",
-         "opacity":0.97,
+         "opacity":1,
          "properties":[
                 {
                  "name":"autoClose",
